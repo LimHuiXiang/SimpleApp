@@ -49,7 +49,7 @@
         android:visibility="visible"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="128dp"
-        tools:text="Enter email here" />
+        tools:text="Enter email here please" />
 
     <RatingBar
         android:id="@+id/ratingBar"
